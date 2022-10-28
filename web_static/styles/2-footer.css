@@ -2,9 +2,9 @@ footer {
     background-color: #00FF00;
     height: 60px;
     width: 100%;
-    justify-content: center;  
-    align-items: center;      
-    position: absolute;       
-    display: flex;
     bottom: 0;
+    display: flex;
+    position: fixed;       
+    align-items: center;      
+    justify-content: center;  
 }
