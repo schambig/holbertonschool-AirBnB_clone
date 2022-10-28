@@ -236,7 +236,7 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors
-| [<img src="https://avatars.githubusercontent.com/u/103861356?v=4" width=85><br><sub> Drixner Condor </sub>](https://github.com/Drixner) | [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> Salomón Chambi </sub>](https://github.com/schambig) |
+| [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> Salomón Chambi </sub>](https://github.com/schambig) | [<img src="https://avatars.githubusercontent.com/u/103861356?v=4" width=85><br><sub> Drixner Condor </sub>](https://github.com/Drixner) | 
 | :---: | :---: |
 
 [Back to top](#airbnb---the-console)<!--@schambig-->
