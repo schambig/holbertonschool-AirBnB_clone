@@ -221,7 +221,7 @@ b7c2338a-7971-436b-a212-6beed80cbb33
 ```
 
 ## How to Test:
-Unittests for the CLI HolbertonBnB project are defined in the [tests](./tests)
+Unit tests for the CLI HolbertonBnB project are defined in the [tests](./tests)
 folder. To run the entire test suite simultaneously, execute the following
 command:
 
